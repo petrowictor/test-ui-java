@@ -46,8 +46,8 @@ UI-автотесты для формы https://practice-automation.com/form-fie
 
 ## Скриншоты отчета о пройденных тестах через Allure
 
-![Allure report](assets\022914.png)
+![Allure report](assets/022914.png)
 
-![Allure report](assets\022939.png)
+![Allure report2](assets/022939.png)
 
-![Allure report](assets\022957.png)
+![Allure report3](assets/022957.png)
